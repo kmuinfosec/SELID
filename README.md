@@ -4,3 +4,8 @@ SELID: Selective Event Labeling for Intrusion Detection Datasets([Sensors 23, no
 ![process](./processstep.png)
 ---
 There are 5 hyperparameters. You can configure it by referring to `conf.py`.
+
+### How to use
+```
+python main.py <input.pkl> <output.pkl>
+```
